@@ -177,7 +177,9 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2025-02-2
   - Event-driven architecture
   - Tool abstraction layer
   - Memory management
-  - Real-time processing- [CAMEL](https://github.com/camel-ai/camel) - Communicative Agents for "Mind"
+  - Real-time processing-
+  -
+- [CAMEL](https://github.com/camel-ai/camel) - Communicative Agents for "Mind"
   Exploration
 
   6,380 stars · 762 forks · 76 contributors · 305 issues · Python · Apache-2.0
@@ -196,7 +198,9 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2025-02-2
   - Autonomous execution
   - Memory persistence
   - Goal-oriented planning
-  - Resource optimization- [Autonomous-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Framework for
+  - Resource optimization-
+  -
+- [Autonomous-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Framework for
   autonomous GPT-4 agents
 
   171,792 stars · 45,107 forks · 438 contributors · 201 issues · Python · NOASSERTION
@@ -227,7 +231,9 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2025-02-2
   - Tool integration
   - State management
   - Event handling
-  - Parallel execution- [ix](https://github.com/kreneskyp/ix) - Autonomous agent framework
+  - Parallel execution-
+  -
+- [ix](https://github.com/kreneskyp/ix) - Autonomous agent framework
 
   1,018 stars · 125 forks · 5 contributors · 14 issues · Python · MIT
 
@@ -283,4 +289,14 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2025-02-2
   - Dependency injection
   - Logfire integration
 
+- [Mastra](https://github.com/mastra-ai/mastra) - Agent Framework in Typescript
+
+  8,000 stars · 319 forks · 42 contributors · 17 issues · Typescript · Elastic License 2.0 (ELv2)
+
+  - Uses the Vercel AI SDK
+  - Tool use
+  - Workflows
+  - RAG
+  - Integrations
+  - Evals
 
